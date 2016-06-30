@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 /**
  * Created by anandmjoseph on 30/06/16.
  */
-public class ConwayLifeActivityTest {
+public class ConwayLifeActivityUnitTest {
 
     @Test
     public void testOnCreate() throws Exception {
